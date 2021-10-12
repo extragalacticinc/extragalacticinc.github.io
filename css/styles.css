@@ -80,6 +80,10 @@ main > .tagline {
 	font-weight: 600;
 }
 
+.main-logo {
+    mix-blend-mode: overlay;
+}
+
 .icons-social i {
 	padding: 10px;
 }
