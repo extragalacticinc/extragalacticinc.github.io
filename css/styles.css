@@ -73,8 +73,9 @@ main > .intro {
 }
 
 main > .tagline {
-	font-size: 1.2rem;
-	margin: 1rem 0;
+	font-size: 1.3rem;
+	margin: .5rem 0;
+	text-transform: uppercase;
 	color: white;
 	font-weight: 600;
 }
