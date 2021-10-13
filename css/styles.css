@@ -37,8 +37,8 @@ html {
 /* Custom Styles */
 
 body {
-	background: linear-gradient(-45deg, #F8F400, #F8F400, #ff3c00, #ff0062, #9d00ff, #2bc7ff, #00ffc3, #00ffc3);
-	background-size: 400% 400%;
+	background: linear-gradient(45deg, #F8F400, #F8F400, #ff3c00, #ff0062, #9d00ff, #2bc7ff, #00ffc3, #00ffc3);
+	background-size: 1000% 1000%;
 	animation: gradient 20s ease infinite;
 	height: 100vh;
 }
