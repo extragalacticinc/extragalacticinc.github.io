@@ -37,7 +37,7 @@ html {
 /* Custom Styles */
 
 body {
-	background: linear-gradient(-45deg, #F8F400, #F8F400, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background: linear-gradient(-45deg, #F8F400, #F8F400, #ee7752, #e73c7e, #23a6d5, #23d5ab, #23d5ab);
 	background-size: 400% 400%;
 	animation: gradient 20s ease infinite;
 	height: 100vh;
@@ -73,11 +73,19 @@ main > .intro {
 }
 
 main > .tagline {
-	font-size: 1.3rem;
+	font-size: 30px;
 	margin: .5rem 0;
 	text-transform: uppercase;
 	color: white;
-	font-weight: 600;
+	font-weight: 700;
+}
+
+main > .subTagline {
+	font-size: 22px;
+	opacity: .7;
+	text-transform: uppercase;
+	color: white;
+	font-weight: 700;
 }
 
 .main-logo {
