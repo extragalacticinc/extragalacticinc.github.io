@@ -92,6 +92,10 @@ main > .subTagline {
 	font-weight: 500;
 }
 
+@media (max-width: 551px) {
+	main > .subTagline { font-size: 1.7rem; }
+  }
+
 .main-logo {
     mix-blend-mode: overlay;
 }
